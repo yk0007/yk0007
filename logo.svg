@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg fill="none" viewBox="0 0 1500 650" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 750 650" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
@@ -22,14 +22,14 @@
           justify-content: center;
           border-radius: 10px;
           width: 100%;
-          background: #fff; /* white background */
+          background: #333; /* changed from #333 to black */
           padding-top: 100px;
           padding-bottom: 100px;
         }
 
         h1 {
           text-align: center;
-          color: #000; /* black main text */
+          color: #fff;
           font-size: 5em;
           letter-spacing: 8px;
           font-family: "Lucida Console", Monaco, monospace;
@@ -40,12 +40,12 @@
         }
 
         h1:nth-child(2) {
-          color: #005C53; /* deep teal glitch */
+          color: #67f3da;
           animation: glitch2 2.5s infinite;
         }
 
         h1:nth-child(3) {
-          color: #800000; /* maroon glitch */
+          color: #f16f6f;
           animation: glitch3 2.5s infinite;
         }
 
