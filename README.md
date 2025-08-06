@@ -16,9 +16,9 @@ I don't just write code — I build stories.
 I'm open to opportunities where I can:
 
 - 🧠 Build intelligent systems with **AI/ML** and **LLMs**  
-- 🌐 Craft sleek, scalable **full stack web & mobile apps**  
+- 🌐 Undoubtedly **GenAI Crafter** 
 - ⚙️ Automate ideas into reality with clean, efficient architecture  
-- 🧪 Experiment with emerging tech, models, and tools
+- 🧪 Experiment with emerging tech, models, and AI-tools
 
 I'm passionate about making things that **feel human**, solve real problems, and spark curiosity.  
 If you're building something meaningful — let's connect and make it real.
