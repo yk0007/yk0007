@@ -2,8 +2,9 @@
   <img src="https://github.com/yk0007/yk0007/blob/main/logo.svg" alt="Hey! I'm Yaswanth" />
 </a>
 
-
 <p align="center">
+  <a href="https://yk0007.pages.dev" target="_blank" rel="noopener noreferrer"> Click me or above! </a> <br>
+  <br>
   <img src="https://komarev.com/ghpvc/?username=yk0007&style=for-the-badge&color=blue" alt="Profile views" />
 </p>
 
