@@ -36,8 +36,8 @@ If you're building something meaningful — let's connect and make it real.
 
 | 💻 Category              | 🚀 Tools & Technologies                                                                                                  |
 |--------------------------|--------------------------------------------------------------------------------------------------------------------------|
-| **🖥️ Languages**         | ![Languages](https://go-skill-icons.vercel.app/api/icons?i=python,cpp,java,js,ts,html,css,sql)                           |
-| **🤖 AI / ML**           | ![AI/ML](https://go-skill-icons.vercel.app/api/icons?i=pytorch,tensorflow) <br> <sub>• Scikit-learn • Hugging Face • Transformers • PEFT</sub> |
+| **🖥️ Languages**         | ![Languages](https://go-skill-icons.vercel.app/api/icons?i=python,cpp,js,ts,html,css,sql)                           |
+| **🤖 AI / ML**           | ![AI/ML](https://go-skill-icons.vercel.app/api/icons?i=pytorch,langchain) <br> <sub>• RAG • Hugging Face • Transformers • PEFT</sub> |
 | **🌐 Web & Mobile**      | ![Web](https://go-skill-icons.vercel.app/api/icons?i=react,reactnative,nodejs,express,vite,tailwind)                     |
 | **🛢️ Databases/Platforms** | ![Databases](https://go-skill-icons.vercel.app/api/icons?i=mongodb,postgres,firebase,supabase) ![Databases](https://www.google.com/s2/favicons?sz=96&domain_url=watermelondb.dev)|
 | **🧰 Developer Tools**   | ![Tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,docker,vscode)  ![Tools](https://www.google.com/s2/favicons?sz=64&domain_url=colab.google)|
